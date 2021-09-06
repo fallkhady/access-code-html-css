@@ -1,0 +1,63 @@
+
+
+.rond span{
+    background: #d41e44;
+    font-family: "Helvetica" ;
+    font-weight: bold;
+    color: #fff;
+    height: 100px;
+    
+}
+
+hr{
+    width: 70%;
+    margin: auto;  
+    position: relative; 
+    top: 198px; 
+}
+
+h5{
+    height: 50px;
+    letter-spacing: 54px;
+    font-family:  "Microsoft Yi Baiti";
+    font-size: 25px;
+    font-weight: initial;
+    opacity: 0.8;
+    position: relative;
+    margin: 0 auto;
+    left: 25px;
+
+}
+
+
+
+.rond strong{
+    color: #d41e44;
+    font-weight: 100;
+}
+
+   
+.rond{
+  
+    border: 1px;
+    height:500px;
+    width:500px;
+    text-align: center;
+    
+    
+}
+
+.rond h1{
+    font-family: Helvetica;
+    font-size: 3em;
+    font-weight: bold;
+    position: relative; 
+    margin: 0 auto; 
+    top: 200px;
+}
+
+.rond h5{
+    position: relative; 
+    margin: 0 auto; 
+    top: 200px;
+}
